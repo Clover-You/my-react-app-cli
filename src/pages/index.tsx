@@ -1,4 +1,4 @@
-import styles from './index.less';
+import styles from '../styles/index.less';
 import { Table, Popconfirm, Button } from 'antd';
 
 export default function IndexPage() {
